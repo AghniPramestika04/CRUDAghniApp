@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677028403303",
+    "project_id": "aghni-xi-rpl-b-04-5bb55",
+    "storage_bucket": "aghni-xi-rpl-b-04-5bb55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677028403303:android:1d9c2bdeaef06478159cc2",
+        "android_client_info": {
+          "package_name": "com.example.crudaghniapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdA9PM3im7JG3A7cE_lMvduFayws3nVqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
